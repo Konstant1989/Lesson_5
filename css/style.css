@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Monofett&family=Press+Start+2P&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Pacifico&family=Rubik+Moonrocks&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Rubik+Moonrocks&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Pacifico&family=Rubik+Moonrocks&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Oswald:wght@700&family=Pacifico&family=Rubik+Moonrocks&display=swap');
+
+@font-face {
+    font-family: "Lato";
+    src: url("../fonts/Lato-Black.woff2"), format("woff2"), url("../fonts/Lato-Black.woff") format("woff");
+    font-display: swap;
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lato";
+    src: url("../fonts/Lato-Bold.woff2"), format("woff2"), url("../fonts/Lato-Bold.woff") format("woff");
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lato";
+    src: url("../fonts/Lato-Regular.woff2"), format("woff2"), url("../fonts/Lato-Regular.woff") format("woff");
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+h1 {
+	font-family: "Monofett";
+	font-style: italic;
+	font-weight: medium;
+	font-size: large;
+	letter-spacing: 30px;
+	background-color: red;
+	width: 900px;
+	padding: 10px;
+	color: #8F00FF;
+	text-align: center;
+	
+}
+div.headtop {
+	width: 900px;
+}
+
+div.text {
+	font-family: "Lobster";
+	font-style: oblique;
+	font-weight: bold;
+	background-color: black;
+	color: #FF69B4;
+	padding: 10px;
+	width: 900px;
+	text-decoration: underline;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+span.price {
+text-decoration: line-through;
+}
+
+div.chapter {
+	font-family: "Lato";
+	font-style: italic;
+	background-color: green;
+	width: 900px;
+	padding: 10px;
+	font-weight: 900;
+	text-shadow: 2px 2px 5px #FFFF00;
+	text-align: center;
+}
+div.under {
+	font-family: "Rubik Moonrocks";
+	color:	#FFFAFA;
+	background-color: 	#696969;
+	padding: 10px;
+	width: 900px;
+	margin-top: 30px;
+	text-align: center;
+}
+
+h2 {
+	font-family: "Pacifico";
+	font-style: oblique;
+	color: rgba(55, 168, 51, 0.5);
+	background-color: RGB(249, 201, 16);
+	padding: 10px;
+	width: 900px;
+	margin-top: 20px;
+	text-align: center;
+	}
+
+div.chapter2 {
+	font-family: "Pacifico";
+	font-style: italic;
+	color:aqua;
+	background-color: black;
+	width: 900px;
+	padding: 10px;
+	margin-top: 50px;
+	}
+
+footer {
+	font-family: "Oswald";
+	font-style: italic;
+	color: yellow;
+	background-color: brown;
+	font-size: 50px;
+	text-align: center;
+	text-decoration: underline;
+	text-shadow: 5px 5px 10px #9932CC;
+	padding: 10px;
+	width: 900px;
+	margin-top: 5px;
+
+}
+
